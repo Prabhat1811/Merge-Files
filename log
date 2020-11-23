@@ -1,0 +1,937 @@
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0Files Returned
+INFO:New Name Created : merged_file1
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:SCRIPT RUN
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Files Merged
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Latest Two Files Returned
+INFO:Files Merged
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Latest Two Files Returned
+INFO:Files Merged
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Latest Two Files Returned
+INFO:Files Merged
+INFO:0 Files Returned
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Latest Two Files Returned
+INFO:Files Merged
+INFO:1 Files Returned
+INFO:New Name Created : merged_file1
+INFO:Merged File Created
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Returned
+INFO:Latest Two Files Returned
+INFO:Files Merged
+INFO:1 Files Returned
+INFO:New Name Created : merged_file1
+INFO:Merged File Created
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:2 Latest Files Fetched
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:2 Latest Files Fetched
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:2 Latest Files Fetched
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:2 Latest Files FetchedFile 4.txtFile 3.txt
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:2 Latest Files Fetched File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file2
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:2 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:2 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file3
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:3 Files Fetched
+INFO:Latest Files Fetched : merged_file3.txt merged_file2.txt
+INFO:New Name Created : merged_file4
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file2
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file3
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:3 Files Fetched
+INFO:Latest Files Fetched : merged_file3.txt merged_file2.txt
+INFO:New Name Created : merged_file4
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : merged_file4.txt merged_file3.txt
+INFO:New Name Created : merged_file5
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:5 Files Fetched
+INFO:Latest Files Fetched : merged_file5.txt merged_file4.txt
+INFO:New Name Created : merged_file6
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:6 Files Fetched
+INFO:Latest Files Fetched : merged_file6.txt merged_file5.txt
+INFO:New Name Created : merged_file7
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:7 Files Fetched
+INFO:Latest Files Fetched : merged_file7.txt merged_file6.txt
+INFO:New Name Created : merged_file8
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:8 Files Fetched
+INFO:Latest Files Fetched : merged_file8.txt merged_file7.txt
+INFO:New Name Created : merged_file9
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:9 Files Fetched
+INFO:Latest Files Fetched : merged_file9.txt merged_file8.txt
+INFO:New Name Created : merged_file10
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:10 Files Fetched
+INFO:Latest Files Fetched : merged_file10.txt merged_file9.txt
+INFO:New Name Created : merged_file11
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:11 Files Fetched
+INFO:Latest Files Fetched : merged_file11.txt merged_file10.txt
+INFO:New Name Created : merged_file12
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:12 Files Fetched
+INFO:Latest Files Fetched : merged_file12.txt merged_file11.txt
+INFO:New Name Created : merged_file13
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:13 Files Fetched
+INFO:Latest Files Fetched : merged_file13.txt merged_file12.txt
+INFO:New Name Created : merged_file14
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:14 Files Fetched
+INFO:Latest Files Fetched : merged_file14.txt merged_file13.txt
+INFO:New Name Created : merged_file15
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:15 Files Fetched
+INFO:Latest Files Fetched : merged_file15.txt merged_file14.txt
+INFO:New Name Created : merged_file16
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:16 Files Fetched
+INFO:Latest Files Fetched : merged_file16.txt merged_file15.txt
+INFO:New Name Created : merged_file17
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:17 Files Fetched
+INFO:Latest Files Fetched : merged_file17.txt merged_file16.txt
+INFO:New Name Created : merged_file18
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:18 Files Fetched
+INFO:Latest Files Fetched : merged_file18.txt merged_file17.txt
+INFO:New Name Created : merged_file19
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:19 Files Fetched
+INFO:Latest Files Fetched : merged_file19.txt merged_file18.txt
+INFO:New Name Created : merged_file20
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:20 Files Fetched
+INFO:Latest Files Fetched : merged_file20.txt merged_file19.txt
+INFO:New Name Created : merged_file21
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:21 Files Fetched
+INFO:Latest Files Fetched : merged_file21.txt merged_file20.txt
+INFO:New Name Created : merged_file22
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:22 Files Fetched
+INFO:Latest Files Fetched : merged_file22.txt merged_file21.txt
+INFO:New Name Created : merged_file23
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:23 Files Fetched
+INFO:Latest Files Fetched : merged_file23.txt merged_file22.txt
+INFO:New Name Created : merged_file24
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:24 Files Fetched
+INFO:Latest Files Fetched : merged_file24.txt merged_file23.txt
+INFO:New Name Created : merged_file25
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Fetched
+INFO:New Name Created : merged_file1
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:1 Files Fetched
+INFO:New Name Created : merged_file2
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file3
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:##Latest Files Fetched : NONE##
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:##Latest Files Fetched : NONE##
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:0 Files Fetched
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:0 Files Fetched
+INFO:##Latest Files Fetched : NONE##
+INFO:New Name Created : merged_file1
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:1 Files Fetched
+INFO:Latest Files Fetched : merged_file1.txt
+INFO:New Name Created : merged_file2
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:2 Files Fetched
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:New Name Created : merged_file3
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:3 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file3.txt merged_file2.txt
+INFO:New Name Created : merged_file4
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file4.txt merged_file3.txt
+INFO:File Name Created : merged_file5
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file5.txt merged_file4.txt
+INFO:File Name Created : merged_file6
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:6 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file6.txt merged_file5.txt
+INFO:File Name Created : merged_file7
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:7 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file7.txt merged_file6.txt
+INFO:File Name Created : merged_file8
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:8 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file8.txt merged_file7.txt
+INFO:File Name Created : merged_file9
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:9 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file9.txt merged_file8.txt
+INFO:File Name Created : merged_file10
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:10 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file10.txt merged_file9.txt
+INFO:File Name Created : merged_file11
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:11 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file11.txt merged_file10.txt
+INFO:File Name Created : merged_file12
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:12 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file12.txt merged_file11.txt
+INFO:File Name Created : merged_file13
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:13 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file13.txt merged_file12.txt
+INFO:File Name Created : merged_file14
+INFO:Merged File Created With Merged Text
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:14 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file14.txt merged_file13.txt
+INFO:File Name Created : merged_file15
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:15 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file15.txt merged_file14.txt
+INFO:File Name Created : merged_file16
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:16 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file16.txt merged_file15.txt
+INFO:File Name Created : merged_file17
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:##Directory NOT Changed##
+INFO:##0 Files Fetched##
+INFO:File Name Created : merged_file1
+INFO:##Merged File NOT Created With Merged Text##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:17 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file17.txt merged_file16.txt
+INFO:File Name Created : merged_file18
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:##Directory NOT Changed##
+INFO:##0 Files Fetched##
+INFO:*****SCRIPT RUN*****
+INFO:##Directory NOT Changed##
+INFO:##0 Files Fetched##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:18 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file18.txt merged_file17.txt
+INFO:File Name Created : merged_file19
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:19 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file19.txt merged_file18.txt
+INFO:File Name Created : merged_file20
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:1 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file20.txt
+INFO:File Name Created : merged_file21
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:3 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file22.txt merged_file21.txt
+INFO:File Name Created : merged_file23
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\Test_script
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\merged_files
+INFO:Latest Files Fetched : merged_file23.txt merged_file22.txt
+INFO:File Name Created : merged_file24
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file24.txt merged_file23.txt
+INFO:File Name Created : merged_file25
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:6 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file25.txt merged_file24.txt
+INFO:File Name Created : merged_file26
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:##Directory NOT Changed##
+INFO:##0 Files Fetched##
+INFO:File Name Created : merged_file1
+INFO:##Merged File NOT Created With Merged Text##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:7 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file26.txt merged_file25.txt
+INFO:File Name Created : merged_file27
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:##Directory NOT Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folde##
+INFO:##0 Files Fetched##
+INFO:File Name Created : merged_file1
+INFO:##Merged File NOT Created With Merged Text##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:8 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file27.txt merged_file26.txt
+INFO:File Name Created : merged_file28
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : new_file1.txt File 4.txt
+INFO:##Files Text NOT Merged##
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:9 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file28.txt merged_file27.txt
+INFO:File Name Created : merged_file29
+INFO:##Merged File NOT Created With Merged Text##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : new_file1.txt File 4.txt
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:10 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file29.txt merged_file28.txt
+INFO:File Name Created : merged_file30
+INFO:Merged File Created With Merged Text
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Files Text Merged
+INFO:##Directory NOT Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folde##
+INFO:##0 Files Fetched##
+INFO:File Name Created : merged_file1
+INFO:##Merged File NOT Created With Merged Text##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:##0 Files Fetched##
+INFO:File Name Created : merged_file1
+INFO:##merging and creating file falied##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:11 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:File Name Created : merged_file1
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : new_file5.txt File 4.txt
+INFO:12 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:File Name Created : merged_file1
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:5 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : new_file5.txt File 4.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:12 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file1.txt merged_file1.txt
+INFO:File Name Created : merged_file2
+INFO:##merging and creating file falied##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:11 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file30.txt merged_file29.txt
+INFO:File Name Created : merged_file31
+INFO:##merging and creating file falied##
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:11 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file30.txt merged_file29.txt
+INFO:File Name Created : merged_file31
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:4 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 4.txt File 3.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:12 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file31.txt merged_file30.txt
+INFO:File Name Created : merged_file32
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:6 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 6.txt File 5.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:0 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:##Latest Files Fetched : NONE##
+INFO:File Name Created : merged_file1
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:7 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : File 7.txt File 6.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:1 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file1.txt
+INFO:File Name Created : merged_file2
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
+INFO:*****SCRIPT RUN*****
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:100007 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\source_folder
+INFO:Latest Files Fetched : 99999.txt 99998.txt
+INFO:Directory Changed To : C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:2 Files Fetched From C:\Users\bipin bhartola\Documents\Prabhat\Projects\modify files\destination_folder
+INFO:Latest Files Fetched : merged_file2.txt merged_file1.txt
+INFO:File Name Created : merged_file3
+INFO:file 1 written
+INFO:file 2 written
+INFO:Email Sent
